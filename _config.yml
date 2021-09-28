@@ -3,7 +3,7 @@ repository: luo-mingjie/luo-mingjie
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 1.0
+version: 2
 
 # Personal info
 name: Ming-Jie LUO
@@ -16,19 +16,19 @@ website: https://luo-mingjie.github.io/luo-mingjie/
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+# twitter_username: xxx
+github_username:  luo-mingjie
+# stackoverflow_username: xxx
+# dribbble_username: xxx
+# facebook_username: xxx
+# flickr_username: xxx
+# instagram_username: xxx
+linkedin_username: mj-luo
+# xing_username: xxx
+# pinterest_username: xxx
+# youtube_username: luo
+# googleplus_username: xxx
+# orcid_username: 0000-0001-7482-4975
 
 # Additional icon links
 additional_links:
