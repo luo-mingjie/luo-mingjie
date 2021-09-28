@@ -113,7 +113,7 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           I worked with Prof. David Huang from the Department of Cancer and Haematology and Prof. Terry Speed from the Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large-scale CRISPR/Cas9 screening, and computational methods for predicting responses for anti-cancer treatments.
-      - layout: left
+      - layout: top-middle
         title: Peking Union Medical College Hospital (PUMCH，北京协和医院) 
         link: www.pumch.cn/en/introduction.html
         link_text: pumch.cn
@@ -132,7 +132,7 @@ content:
       - Photography
 
       Look at this cool image  
-      ![Trees](/images/old_temple.jpg "Masion")
+      ![天空一角](/images/old_temple.jpg "Masion")
 
 # Footer
 footer_show_references: true
