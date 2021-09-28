@@ -58,26 +58,25 @@ about_content: | # this will include new lines to allow paragraphs
   I have a B.S. from Tsinghua University and an M.A. from University of Melbourne. I worked with Prof. David Huang from Department of Cancer and Haematology and Prof. Terry Speed from Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large scale CRISPR/Cas9 screening and computational methods for predicting responses for anti-cancer treatments. During my undergraduate, I worked with Prof. Li Wu and Prof. Xuegong Zhang on immunology and bioinformatics at Tsinghua University.
 
 content:
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Project
-  #       link: github.com/luo-mingjie
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Project
+        link: github.com/luo-mingjie
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        description: | # this will include new lines to allow paragraphs
+          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -113,7 +112,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I worked with Prof. David Huang from the Department of Cancer and Haematology and Prof. Terry Speed from the Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large-scale CRISPR/Cas9 screening, and computational methods for predicting responses for anti-cancer treatments.
+          I worked with Prof. David Huang from the Department of Cancer and Haematology and Prof. Terry Speed from the Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large-scale CRISPR/Cas9 screening, and computational methods for predicting responses for anti-cancer treatments.
 
       - layout: left
         title: Peking Union Medical College Hospital (PUMCH，北京协和医院) 
@@ -124,7 +123,7 @@ content:
         # quote: >
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            I am studying clinical medicine and rotating as an intern doctor at the Peking Union Medical College Hospital (PUMCH), China.
+          I am studying clinical medicine and rotating as an intern doctor at the Peking Union Medical College Hospital (PUMCH), China.
 
   - title: A Little More About Me
     layout: text
