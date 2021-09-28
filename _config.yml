@@ -10,7 +10,7 @@ name: Ming-Jie LUO
 title: TSINGHUA UNIVERISTY · BEIJING, CHINA 100084
 email: luomingjie_thu@outlook.com
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+# phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 website: luo-mingjie.github.io/luo-mingjie
 website_title: Github
@@ -91,7 +91,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I spent the 3 years at Tsinghua studying basic science, basic medical and computer science courses. Science and chemistry courses included calculus, linear algebra, university physics in mathematics and science, principles of chemistry, organic chemistry and experiments in chemistry, biochemistry, cell biology, molecular biology, genetics in biology, etc. Medical courses included anatomy, histology, physiology, pathology, pathophysiology, immunology, microbiology, parasitology, etc.
 
-          I spent a lot of my free time completin computer science courses and received certificate of **Computer Science and Programming Using Python**.
+          I spent a lot of my free time taking computer science courses and received certificate of **Computer Science and Programming Using Python**.
       - layout: left
         title: University of Melbourne
         caption: 2017 - 2019
@@ -103,7 +103,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Walter and Eliza Hall Institute of Medical Research (WEHI)
         link: wehi.edu.au
         link_text: wehi.edu.au
@@ -132,7 +132,7 @@ content:
       - Photography
 
       Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      ![Trees](/images/old_temple.jpg "Masion")
 
 # Footer
 footer_show_references: true
