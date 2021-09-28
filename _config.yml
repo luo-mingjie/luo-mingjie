@@ -49,9 +49,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I am an M.D. candidate at School of Medicine, Tsinghua University. Currently, I am doing clinical practicing at Peking Union Medical College Hospital (PUMCH), China. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am interested in translational biomedical research and solving clinical problems using artiﬁcial intelligence. I have been working on computational methods for the identiﬁcation of biomarkers for patients’ responses to anti-cancer reagents. I have developed a screening platform to identify therapeutic targets for treating cancer patients based on the CRISPR/Cas9 technology. I am using data mining strategies to analyze large scale electrical medical records.
+
+  I am expecting to earn my M.D. degree in June 2022, and I am looking for post-doc positions on biomedical research.
+
+  I have a B.S. from Tsinghua University and an M.A. from University of Melbourne. I worked with Prof. David Huang from Department of Cancer and Haematology and Prof. Terry Speed from Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large scale CRISPR/Cas9 screening and computational methods for predicting responses for anti-cancer treatments. During my undergraduate, I worked with Prof. Li Wu and Prof. Xuegong Zhang on immunology and bioinformatics at Tsinghua University.
 
 content:
   - title: Projects # Title for the section
@@ -104,12 +108,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+      Here is some of my other interests and hobbies are:
+      - Swimming
+      - Demigods and Semi-Devils (天龙八部) and other fictions by Gum Yoong
+      - Photography
+      
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
