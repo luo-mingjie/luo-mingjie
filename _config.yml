@@ -1,15 +1,16 @@
 # Site
-repository: sproogen/resume-theme
+repository: luo-mingjie/luo-mingjie
 favicon: images/favicon.ico
 
 # Content configuration version
-version: 2
+version: 1.0
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Ming-Jie LUO
+title: TSINGHUA UNIVERISTY · BEIJING, CHINA 100084
+email: luomingjie_thu@outlook.com
+website: https://luo-mingjie.github.io/luo-mingjie/
+
 
 # Dark Mode (true/false/never)
 darkmode: false
