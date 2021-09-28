@@ -31,10 +31,10 @@ linkedin_username: mj-luo
 # orcid_username: 0000-0001-7482-4975
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -47,7 +47,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am an M.D. candidate at School of Medicine, Tsinghua University. Currently, I am doing clinical practicing at Peking Union Medical College Hospital (PUMCH), China. 
 
@@ -112,12 +112,12 @@ content:
       - Swimming
       - Demigods and Semi-Devils (天龙八部) and other fictions by Gum Yoong
       - Photography
-      
+
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](/luo-mingjie/images/old_temple.jpg "宁郡王府")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
