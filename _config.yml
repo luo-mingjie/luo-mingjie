@@ -6,7 +6,7 @@ repository: luo-mingjie/luo-mingjie
 version: 2
 
 # Personal info
-name: Ming-Jie LUO
+name: Ming-Jie LUO 罗明杰
 title: TSINGHUA UNIVERISTY · BEIJING, CHINA 100084
 email: luomingjie_thu@outlook.com
 # email_title: Email (Email title override)
@@ -91,7 +91,7 @@ content:
 
           During my undergraduate, I undertook some projects with Prof. Li Wu and Prof. Xuegong Zhang on immunology and bioinformatics.
 
-          I spent a lot of my free time taking computer science courses and received certificate of **Computer Science and Programming Using Python**.
+          I spent a lot of my free time taking computer science courses and received certificate of Computer Science and Programming Using Python.
       - layout: left
         title: Master of Research
         caption: 2017 - 2019
@@ -144,7 +144,7 @@ content:
       - Photography
 
       Look at this cool image  
-      ![天空一角](/images/old_temple.jpg "old_temple")
+      ![天空一角](images/old_temple.jpg "old_temple")
 
 # Footer
 footer_show_references: true
