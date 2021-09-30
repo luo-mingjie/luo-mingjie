@@ -56,9 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am interested in translational biomedical research and solving clinical problems using artiﬁcial intelligence. I have been working on computational methods for the identiﬁcation of biomarkers for patients’ responses to anti-cancer reagents. I have developed a screening platform to identify therapeutic targets for treating cancer patients based on the CRISPR/Cas9 technology. I am using data mining strategies to analyze large scale electrical medical records.
 
-  I am expecting to earn my M.D. degree in June 2022, and I am looking for post-doc positions on biomedical research.
-
-  I have a B.S. from Tsinghua University and an M.A. from University of Melbourne. I worked with Prof. David Huang from Department of Cancer and Haematology and Prof. Terry Speed from Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large scale CRISPR/Cas9 screening and computational methods for predicting responses for anti-cancer treatments. During my undergraduate, I worked with Prof. Li Wu and Prof. Xuegong Zhang on immunology and bioinformatics at Tsinghua University.
+  I am expecting to earn my M.D. degree in June 2022, and I am looking for post-doc positions on biomedical research. Alternatively I'm considering taking a career of being a doctor.
 
 content:
   # - title: Projects # Title for the section
@@ -83,23 +81,35 @@ content:
     layout: list
     content:
       - layout: left
-        title: Tsinghua University
+        title: Bachelor of Science
         caption: 2014 - 2017
-        sub_title: B.Sc. Life Science
+        sub_title: Tsinghua University
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I spent the 3 years at Tsinghua studying basic science, basic medical and computer science courses. Science and chemistry courses included calculus, linear algebra, university physics in mathematics and science, principles of chemistry, organic chemistry and experiments in chemistry, biochemistry, cell biology, molecular biology, genetics in biology, etc. Medical courses included anatomy, histology, physiology, pathology, pathophysiology, immunology, microbiology, parasitology, etc.
+          I spent 3 years at Tsinghua University studying basic science and pre-med courses. I've covered many subjects in mathematics, chemistry and physics, including calculus, linear algebra, probability and statistics, general physics, pharmacology, inorganic, analytical and organic chemistry. I have also involved in many experimental subjects, e.g. biochemistry, cell biology, molecular biology, genetics, neuroscience, etc. Medical courses include anatomy, histology, physiology, pathology, pathophysiology, immunology, microbiology, parasitology, psychology and etc. 
+
+          During my undergraduate, I undertook some projects with Prof. Li Wu and Prof. Xuegong Zhang on immunology and bioinformatics.
 
           I spent a lot of my free time taking computer science courses and received certificate of **Computer Science and Programming Using Python**.
       - layout: left
-        title: University of Melbourne
+        title: Master of Research
         caption: 2017 - 2019
-        sub_title: Master of Research
+        sub_title: University of Melbourne
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I spent two years doing full-time research training at the University of Melbourne and received my Master's degree. I received funding from the National Scholarship Council.
+          I previously received an Masters' of Research from University of Melbourne, during which I was fortunate to work with Prof. David Huang from the Department of Cancer and Haematology and Prof. Terry Speed from the Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large-scale CRISPR/Cas9 screening, and computational methods for predicting responses for anti-cancer treatments. I received funding support from the National Scholarship Council.
+      - layout: left
+        title: Doctor of Medicine
+        caption: 2019 - 2021
+        sub_title: >
+          Tsinghua University
+        # quote: >
+        #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          I previously received an Masters' of Research from University of Melbourne, during which I was fortunate to work with Prof. David Huang from the Department of Cancer and Haematology and Prof. Terry Speed from the Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large-scale CRISPR/Cas9 screening, and computational methods for predicting responses for anti-cancer treatments. I received funding support from the National Scholarship Council.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -113,6 +123,8 @@ content:
         #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           I worked with Prof. David Huang from the Department of Cancer and Haematology and Prof. Terry Speed from the Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large-scale CRISPR/Cas9 screening, and computational methods for predicting responses for anti-cancer treatments.
+
+          More explanation……
       - layout: top-middle
         title: Peking Union Medical College Hospital (PUMCH，北京协和医院) 
         link: www.pumch.cn/en/introduction.html
@@ -132,7 +144,7 @@ content:
       - Photography
 
       Look at this cool image  
-      ![天空一角](/images/old_temple.jpg "Masion")
+      ![天空一角](/images/old_temple.jpg "old_temple")
 
 # Footer
 footer_show_references: true
