@@ -103,38 +103,76 @@ content:
       - layout: left
         title: Doctor of Medicine
         caption: 2019 - 2021
-        sub_title: >
+        sub_title: |
           Tsinghua University
+
+          Peking Union Medical College Hospital (PUMCH，北京协和医院)           
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           I previously received an Masters' of Research from University of Melbourne, during which I was fortunate to work with Prof. David Huang from the Department of Cancer and Haematology and Prof. Terry Speed from the Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large-scale CRISPR/Cas9 screening, and computational methods for predicting responses for anti-cancer treatments. I received funding support from the National Scholarship Council.
 
-  - title: Experience # Title for the section
+  - title: Selected Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Walter and Eliza Hall Institute of Medical Research (WEHI)
-        link: wehi.edu.au
-        link_text: wehi.edu.au
-        sub_title: Biomedical research
-        caption: 2017 - 2019
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-          I worked with Prof. David Huang from the Department of Cancer and Haematology and Prof. Terry Speed from the Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large-scale CRISPR/Cas9 screening, and computational methods for predicting responses for anti-cancer treatments.
-
-          More explanation……
-      - layout: top-middle
-        title: Peking Union Medical College Hospital (PUMCH，北京协和医院) 
+        title: Intern doctor 
         link: www.pumch.cn/en/introduction.html
         link_text: pumch.cn
-        sub_title: Intern doctor 
+        sub_title: Peking Union Medical College Hospital (PUMCH，北京协和医院) 
         caption: 2019 - Present
-        # quote: >
-        #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           I am studying clinical medicine and rotating as an intern doctor at the Peking Union Medical College Hospital (PUMCH), China.
+      - layout: top-middle
+        title: Advancing BH3 mimetics for treating cancers
+        # link: wehi.edu.au
+        # link_text: wehi.edu.au
+        # sub_title: Walter and Eliza Hall Institute of Medical Research (WEHI)
+        caption: 2017 - 2019
+        description: | # this will include new lines to allow paragraphs
+          We identiﬁed two BCL2 relatives as the most important survival factors for the colorectal cancer (CRC). We also validated them as potential targets by pharmacological inhibition in both in vivo models and patient-derived organoids. We have published an abstract at the 2018 EMBL Australia Postgraduate Symposium (EAPS18). I presented this work as one of the keynote speakers EAPS18. This work is published in Cell Death and Disease (IF=6).
+      - layout: top-middle
+        title: Predicting responses to BH3 mimetic compounds using transcriptional proﬁles
+        # link: wehi.edu.au
+        # link_text: wehi.edu.au
+        # sub_title: Walter and Eliza Hall Institute of Medical Research (WEHI)
+        caption: 2018 - 2019
+        description: | # this will include new lines to allow paragraphs
+          I have developed computational models for predicting the sensitivity of BH3 mimetics and other anticancer therapies based on molecular proﬁles (e.g. transcriptomics). Additionally this model has shown potential in identifying biomarkers which might be related to the biological mechanisms of the drugs. I have presented this work as an oral poster presentation at the Melbourne Health Young Investigators Research Symposium 2019.
+      - layout: top-middle
+        title: Identifying regulators of pro-survival factors by CRISPR/Cas9 screening
+        # link: wehi.edu.au
+        # link_text: wehi.edu.au
+        # sub_title: Walter and Eliza Hall Institute of Medical Research (WEHI)
+        caption: 2018 - 2019
+        description: | # this will include new lines to allow paragraphs
+          BCL2 and its relatives have been implicated to play a crucial role to maintain the survival of various malignances. To identify therapeutic targets that can be utilized to inhibit BCL2 and its relatives, we optimize a genome-wide clustered regularly interspaced short palindromic repeats (CRISPR) screening platform and use it to identify genetic vulnerabilities in cancer cells. We have identiﬁed several candidate genes. I have ﬁnished this work for a section in my M.Res. thesis.
+      - layout: top-middle
+        title: Structural analysis of MRJP1 protein
+        # link: wehi.edu.au
+        # link_text: wehi.edu.au
+        # sub_title: Walter and Eliza Hall Institute of Medical Research (WEHI)
+        caption: 2017
+        description: | # this will include new lines to allow paragraphs
+          Based on the research prospects of major royal jelly protein1 (MRJP1), we focused on using biochemical and biophysical methods to study its spatial structure and its stability and explored its protective eﬀect on the degeneration process of cataract-causing crystal proteins. We published an abstract based on this work at the 13th National Enzymology Symposium.
+      - layout: top-middle
+        title: SuvCas9: a surveillance system for monitoring carcinogenesis
+        # link: wehi.edu.au
+        # link_text: wehi.edu.au
+        sub_title: Gold medal at iGEM
+        caption: 2016
+        description: | # this will include new lines to allow paragraphs
+          We constructed a suvCas9 system in S. cerevisiae to function as the monitor of genomic sequence. The system has the potential to prevent carcinogenesis by killing all the mutated cells. We won a gold medal for this project at iGEM (International Genetically Engineered Machine competition).
+  - title: BIOINFORMATICS AND DATA SCIENCE
+    layout: text
+    content: |
+    I have been working intensively on projects requiring both wet-lab and bioinformatics skills. I am familiar with data mining on large scale biomedical databases, such as The Cancer Genome Atlas (TCGA). I have experience working with NGS data including single cell sequencing, RNA seq, Chipseq, ATAC seq, microbiome data and etc. I have taught Bioinformatics Workshops at the NJU(Nanjing University)-WEHI Symposium 2018.
+
+    My skills:
+    - **Programming languages**: R, bash, python and matlab
+    - **Data-mining**: large scale biomedical resources, web scraper
+    - **Mathematical modeling**: classical statistics, ODE modelling, machine learning methods
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -143,8 +181,8 @@ content:
       - Demigods and Semi-Devils (天龙八部) and other fictions by Gum Yoong
       - Photography
 
-      Look at this cool image  
-      ![天空一角](images/old_temple.jpg "old_temple")
+      # Look at this cool image  
+      # ![天空一角](images/old_temple.jpg "old_temple")
 
 # Footer
 footer_show_references: true
