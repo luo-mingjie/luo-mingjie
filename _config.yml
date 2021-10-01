@@ -52,12 +52,11 @@ linkedin_username: mj-luo
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am an M.D. candidate at School of Medicine, Tsinghua University. Currently, I am doing clinical practicing at Peking Union Medical College Hospital (PUMCH), China. 
+  I am an M.D. candidate at School of Medicine, Tsinghua University. Currently, I am doing clinical practice at Peking Union Medical College Hospital (PUMCH), China.
 
-  I am interested in translational biomedical research and solving clinical problems using artiﬁcial intelligence. I have been working on computational methods for the identiﬁcation of biomarkers for patients’ responses to anti-cancer reagents. I have developed a screening platform to identify therapeutic targets for treating cancer patients based on the CRISPR/Cas9 technology. I am using data mining strategies to analyze large scale electrical medical records.
+  I am interested in translational biomedical research and solving clinical problems using artiﬁcial intelligence. I have worked on computational methods for the identiﬁcation of biomarkers for patients’ responses to anti-cancer reagents. I have developed a screening platform to identify therapeutic targets for treating cancer patients based on the CRISPR/Cas9 technology. Recently, I have been using data mining strategies to analyze large scale electrical medical records.
 
-  I am expecting to earn my M.D. degree in June 2022, and I am looking for post-doc positions on biomedical research. Alternatively I'm considering taking a career of being a doctor.
-
+  I am expecting to earn my M.D. degree in June 2022, and I am looking for doctor positions in oncology. Alternatively, I’m considering taking post-doc positions in translational biomedical research.
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -87,11 +86,11 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I spent 3 years at Tsinghua University studying basic science and pre-med courses. I've covered many subjects in mathematics, chemistry and physics, including calculus, linear algebra, probability and statistics, general physics, pharmacology, inorganic, analytical and organic chemistry. I have also involved in many experimental subjects, e.g. biochemistry, cell biology, molecular biology, genetics, neuroscience, etc. Medical courses include anatomy, histology, physiology, pathology, pathophysiology, immunology, microbiology, parasitology, psychology and etc. 
+          I spent 3 years at Tsinghua University studying basic science and pre-med courses. I’ve covered many mathematics, chemistry, and physics subjects, including calculus, linear algebra, probability and statistics, general physics, pharmacology, inorganic, analytical and organic chemistry. I also had many experimental subjects, e.g., biochemistry, cell biology, molecular biology, genetics, neuroscience, etc. Medical courses I took included anatomy, histology, physiology, pathology, pathophysiology, immunology, microbiology, parasitology, psychology, etc.
 
           During my undergraduate, I undertook some projects with Prof. Li Wu and Prof. Xuegong Zhang on immunology and bioinformatics.
 
-          I spent a lot of my free time taking computer science courses and received certificate of Computer Science and Programming Using Python.
+          I spent a lot of my free time taking computer science courses and received some certificates of Computer Science.
       - layout: left
         title: Master of Research
         caption: 2017 - 2019
