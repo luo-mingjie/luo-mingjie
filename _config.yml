@@ -164,12 +164,12 @@ content:
   - title: BIOINFORMATICS AND DATA SCIENCE
     layout: text
     content: |
-    I have been working intensively on projects requiring both wet-lab and bioinformatics skills. I am familiar with data mining on large scale biomedical databases, such as The Cancer Genome Atlas (TCGA). I have experience working with NGS data including single cell sequencing, RNA seq, Chipseq, ATAC seq, microbiome data and etc. I have taught Bioinformatics Workshops at the NJU(Nanjing University)-WEHI Symposium 2018.
+      I have been working intensively on projects requiring both wet-lab and bioinformatics skills. I am familiar with data mining on large scale biomedical databases, such as The Cancer Genome Atlas (TCGA). I have experience working with NGS data including single cell sequencing, RNA seq, Chipseq, ATAC seq, microbiome data and etc. I have taught Bioinformatics Workshops at the NJU(Nanjing University)-WEHI Symposium 2018.
 
-    My skills:
-    - **Programming languages**: R, bash, python and matlab
-    - **Data-mining**: large scale biomedical resources, web scraper
-    - **Mathematical modeling**: classical statistics, ODE modelling, machine learning methods
+      My skills:
+      - **Programming languages**: R, bash, python and matlab
+      - **Data-mining**: large scale biomedical resources, web scraper
+      - **Mathematical modeling**: classical statistics, ODE modelling, machine learning methods
 
   - title: A Little More About Me
     layout: text
