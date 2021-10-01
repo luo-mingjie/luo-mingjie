@@ -110,7 +110,6 @@ content:
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           I previously received an Masters' of Research from University of Melbourne, during which I was fortunate to work with Prof. David Huang from the Department of Cancer and Haematology and Prof. Terry Speed from the Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large-scale CRISPR/Cas9 screening, and computational methods for predicting responses for anti-cancer treatments. I received funding support from the National Scholarship Council.
-
   - title: Selected Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -155,7 +154,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Based on the research prospects of major royal jelly protein1 (MRJP1), we focused on using biochemical and biophysical methods to study its spatial structure and its stability and explored its protective eﬀect on the degeneration process of cataract-causing crystal proteins. We published an abstract based on this work at the 13th National Enzymology Symposium.
       - layout: top-middle
-        title: SuvCas9: a surveillance system for monitoring carcinogenesis
+        title: "SuvCas9: a surveillance system for monitoring carcinogenesis"
         # link: wehi.edu.au
         # link_text: wehi.edu.au
         sub_title: Gold medal at iGEM
