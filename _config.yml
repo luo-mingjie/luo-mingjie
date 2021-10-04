@@ -109,7 +109,9 @@ content:
         # quote: >
         #   Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
-          I previously received an Masters' of Research from University of Melbourne, during which I was fortunate to work with Prof. David Huang from the Department of Cancer and Haematology and Prof. Terry Speed from the Department of Bioinformatics, the Walter and Eliza Hall Institute of Medical Research. My researches focus on translational cancer research, large-scale CRISPR/Cas9 screening, and computational methods for predicting responses for anti-cancer treatments. I received funding support from the National Scholarship Council.
+          I am studying clinical medicine and rotating as an intern doctor at the Peking Union Medical College Hospital (PUMCH), China.
+
+          At the same time, I have collaborated with several professors at the Chinese Academy of Medical Sciences & PUMCH, including: Prof. Jingnan Li in Gastroenterology, approaches for gut microbiomic profile analysis; Prof. Xin You in Rheumatology, exploring flora transplantation with metabolomic and gut microbiomic approaches for patients with autism; Dr. Chong Wei in Hematology: transcriptome analysis for immunotherapy of leukemia; Dr. Jia-Nan Gong in Animal Research Institute: targeted therapeutic approaches for various solid tumors (gastric cancer, colorectal cancer, etc.).
   - title: Selected Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -121,6 +123,8 @@ content:
         caption: 2019 - Present
         description: | # this will include new lines to allow paragraphs
           I am studying clinical medicine and rotating as an intern doctor at the Peking Union Medical College Hospital (PUMCH), China.
+
+          The program includes clinical courses (e.g. diagnostics, internal and external medicine, neurology, obstetrics and gynecology) and internship rotations in all major departments at PUMCH.
       - layout: top-middle
         title: Advancing BH3 mimetics for treating cancers
         # link: wehi.edu.au
