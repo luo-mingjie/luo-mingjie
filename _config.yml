@@ -12,7 +12,7 @@ email: luomingjie_thu@outlook.com
 # email_title: Email (Email title override)
 website: linkedin.com/in/mj-luo/
 website_title: Linkedin
-phone: THU_LuoM
+phone: [THU_LuoM](images/wechat.jpg)
 phone_title: Wechat
 # website: scholar.google.com/citations?hl=en&user=tbBjJHEAAAAJ
 # website_title: Google Scholar
@@ -188,10 +188,10 @@ content:
 
       see this picture I took near PUMCH. 
 
-      ![old_temple](images/old_temple.jpg =250x250)
+      ![old_temple](/images/old_temple.jpg =250x250)
 
 
-      [My wechat](images/wechat.jpg)
+      # [My wechat](images/wechat.jpg)
 
 
 # Footer
