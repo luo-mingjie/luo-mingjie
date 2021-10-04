@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ming-Jie LUO. 
+My name is Ming-Jie LUO. 🤔
 check my CV [here](https://luo-mingjie.github.io/)
 
 <!--
