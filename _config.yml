@@ -1,6 +1,6 @@
 # Site
 repository: luo-mingjie/luo-mingjie
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -179,8 +179,8 @@ content:
       - Demigods and Semi-Devils (天龙八部) and other fictions by Gum Yoong
       - Photography
 
-      # Look at this cool image  
-      # ![天空一角](images/old_temple.jpg "old_temple")
+      Look at this cool image  
+      ![天空一角](images/old_temple.jpg "old_temple")
 
 # Footer
 footer_show_references: true
