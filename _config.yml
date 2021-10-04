@@ -186,7 +186,8 @@ content:
       - Demigods and Semi-Devils (天龙八部) and other fictions by Gum Yoong
       - Photography
 
-      [My wechat]({{luo-mingjie.github.io}}/images/wechat.jpg)
+      [My wechat]({{ site.url }}/images/wechat.jpg)
+      
 
 # Footer
 footer_show_references: true
