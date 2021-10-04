@@ -10,10 +10,12 @@ name: Ming-Jie LUO 罗明杰
 title: TSINGHUA UNIVERISTY · BEIJING, CHINA 100084
 email: luomingjie_thu@outlook.com
 # email_title: Email (Email title override)
-# phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: luo-mingjie.github.io/luo-mingjie
-website_title: Github
+phone: THU_LuoM
+phone_title: Wechat
+website: linkedin.com/in/mj-luo/
+website_title: Linkedin
+website: scholar.google.com/citations?hl=en&user=tbBjJHEAAAAJ
+website_title: Google Scholar
 
 # Dark Mode (true/false/never)
 darkmode: false
