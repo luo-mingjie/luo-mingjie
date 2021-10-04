@@ -60,6 +60,8 @@ about_content: | # this will include new lines to allow paragraphs
   I am interested in translational biomedical research and solving clinical problems using artiﬁcial intelligence. I have worked on computational methods for the identiﬁcation of biomarkers for patients’ responses to anti-cancer reagents. I have developed a screening platform to identify therapeutic targets for treating cancer patients based on the CRISPR/Cas9 technology. Recently, I have been using data mining strategies to analyze large scale electrical medical records.
 
   I am expecting to earn my M.D. degree in June 2022, and I am looking for doctor positions in oncology. Alternatively, I’m considering taking post-doc positions in translational biomedical research.
+
+  Feel free to add [My wechat](images/wechat.jpg) if any interests.
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
@@ -189,9 +191,6 @@ content:
       see this picture I took near PUMCH. 
 
       ![old_temple](/images/old_temple.jpg){:height="50%" width="50%"}
-
-
-      [My wechat](images/wechat.jpg)
 
 
 # Footer
